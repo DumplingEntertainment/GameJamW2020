@@ -100,7 +100,7 @@ public class Character : MonoBehaviour {
     }
 
     public void OnTriggerEnter2D(Collider2D other) {
-        Debug.Log("collision");
+        EventManager.TriggerEvent("OnCollideDeath");
     }
 
     public IEnumerator spawnCube(Vector3 pos) {
