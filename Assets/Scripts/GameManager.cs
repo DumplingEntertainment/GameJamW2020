@@ -17,7 +17,7 @@ public class GameManager : MonoBehaviour
         get {
             if (_instance == null)
             {
-                DontDestroyOnLoad(GameManager);
+                DontDestroyOnLoad(_instance);
                 _instance = new GameManager();
             }
             return _instance;
