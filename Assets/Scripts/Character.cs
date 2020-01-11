@@ -22,7 +22,6 @@ public class Character : MonoBehaviour {
         spawnTime = 0;
     }
 
-
     void Update() {
         horizontalInput = Input.GetAxisRaw("Horizontal");
         verticalInput = Input.GetAxisRaw("Vertical");
