@@ -9,7 +9,7 @@ public class GameManager : MonoBehaviour
 
     private GameManager()
     {
-
+        EventManager.StartListening("OnCollideDeath", Dead);
     }
 
     public static GameManager Instance
@@ -23,6 +23,11 @@ public class GameManager : MonoBehaviour
             return _instance;
         }
 
+    }
+
+
+    void Dead() {
+        Debug.Log("Event received");
     }
 
     private void OnApplicationQuit()
