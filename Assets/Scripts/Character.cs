@@ -32,13 +32,17 @@ public class Character : MonoBehaviour {
         verticalInput = Input.GetAxisRaw("Vertical");
         if (direction == 0 || direction == 1) {
             if (verticalInput != 0) {
-                     MusicSource.Play();
+                 if (!audio.isPlaying) {
+                    MusicSource.PlayOneShot(AudioClip clip, float volume);
+                 }
                 horizontalInput = 0;
             }
         }
         else {
             if (horizontalInput != 0) {
-                     MusicSource.Play();
+                    if (!audio.isPlaying) {
+                    MusicSource.PlayOneShot(AudioClip clip, float volume);
+                 }
                 verticalInput = 0;
             }
         }
