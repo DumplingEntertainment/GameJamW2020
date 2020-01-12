@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+ using UnityEngine.SceneManagement;
 
 public class Character : MonoBehaviour {
 
@@ -156,13 +157,18 @@ public class Character : MonoBehaviour {
 
     public void OnTriggerEnter2D(Collider2D other) {
         EventManager.TriggerEvent("OnCollideDeath");
-        
+        StartCoroutine(GoToExitScreen());
     }
 
     public IEnumerator spawnCube(Vector3 pos) {
         yield return new WaitForSeconds(0.5f);
         GameObject newObject = Instantiate(detectionCube, pos, Quaternion.identity);
         Destroy(newObject, 6.0f);
+    }
+
+    public IEnumerator GoToExitScreen() {
+        yield return new WaitForSeconds(4f);
+        SceneManager.LoadScene(sceneBuildIndex:2);
     }
     
 }

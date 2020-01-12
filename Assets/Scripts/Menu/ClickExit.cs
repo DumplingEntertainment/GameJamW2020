@@ -2,16 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ClickExit : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
-    {
+public class ClickExit : MonoBehaviour {
 
-    }
-
-    public void Exit () 
-    {
+    public void Exit () {
                Application.Quit();
     }
 

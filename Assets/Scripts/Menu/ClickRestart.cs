@@ -6,8 +6,7 @@ using UnityEngine.SceneManagement;
 public class ClickRestart : MonoBehaviour
 {
 
-    public void restart () 
-    {
-            SceneManager.LoadScene(1);
+    public void restart () {
+        SceneManager.LoadScene(sceneBuildIndex:1);
     }
 }

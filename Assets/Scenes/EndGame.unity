@@ -96,6 +96,7 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaAO: 1
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
+    m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
   m_UseShadowmask: 1
 --- !u!196 &4
@@ -277,7 +278,6 @@ GameObject:
   - component: {fileID: 452540001}
   - component: {fileID: 452540004}
   - component: {fileID: 452540003}
-  - component: {fileID: 452540002}
   m_Layer: 5
   m_Name: GameOver_Title
   m_TagString: Untagged
@@ -304,30 +304,6 @@ RectTransform:
   m_AnchoredPosition: {x: 4, y: 68.5}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!132 &452540002
-GUIText:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 452540000}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Text: 
-  m_Anchor: 0
-  m_Alignment: 0
-  m_PixelOffset: {x: 0, y: 0}
-  m_LineSpacing: 1
-  m_TabSize: 4
-  m_Font: {fileID: 12800000, guid: d12629c1dfa42cb4b9e8ce8c4e6b8a51, type: 3}
-  m_Material: {fileID: 0}
-  m_FontSize: 0
-  m_FontStyle: 0
-  m_Color:
-    serializedVersion: 2
-    rgba: 4278190080
-  m_PixelCorrect: 1
-  m_RichText: 1
 --- !u!114 &452540003
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -801,6 +777,17 @@ MonoBehaviour:
           m_ObjectArgument: {fileID: 8300000, guid: d474877ea91f7914d8601b3879781c12,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 11500000, guid: c9dd7413de32cd746a71af12cccefaa4, type: 3}
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -1290,7 +1277,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278646528
+    rgba: 4278712320
   m_fontColor: {r: 0, g: 0.9716981, b: 0.02634932, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -1470,6 +1457,17 @@ MonoBehaviour:
           m_ObjectArgument: {fileID: 8300000, guid: d474877ea91f7914d8601b3879781c12,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 11500000, guid: bad1ae2fa22912045904e2d358d0da8b, type: 3}
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
