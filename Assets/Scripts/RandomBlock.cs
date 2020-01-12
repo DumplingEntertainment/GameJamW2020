@@ -11,8 +11,7 @@ public class RandomBlock : MonoBehaviour
     public Tile default_tile;
     public Tile obstacle;
     public Tile red_tile;
-    public Tile orange_tile;
-    public GameObject character;
+    //public GameObject character;
 
 
     public int width, height;
@@ -29,7 +28,7 @@ public class RandomBlock : MonoBehaviour
                 for (int i = 0; i < blockList.Count; i++)
                 {
                     Vector3Int element = blockList[i];
-                    tilemap.SetTile(element, null);
+                    tilemap.SetTile(element, default_tile);
                     blockList.Remove(element);
                 }
             }
@@ -39,8 +38,8 @@ public class RandomBlock : MonoBehaviour
                 y = Random.Range(0, height);
                 Vector3Int vector = new Vector3Int(x, y, 0);
 
-                float charPosX = character.transform.position.x;
-                float charPosY = character.transform.position.y;
+                //float charPosX = character.transform.position.x;
+                //float charPosY = character.transform.position.y;
                 //if (System.Math.Abs(charPosX - vector.x ) > 2
                         //&& System.Math.Abs(charPosY - vector.transform.position.y) > 2 ){
                     tilemap.SetTile(vector, red_tile);

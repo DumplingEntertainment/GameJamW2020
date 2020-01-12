@@ -183,7 +183,7 @@ SpriteRenderer:
   m_Size: {x: 25, y: 12.84375}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &230403775
@@ -1153,6 +1153,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1218938661}
   - component: {fileID: 1218938660}
+  - component: {fileID: 1218938662}
   m_Layer: 0
   m_Name: MapManager
   m_TagString: Untagged
@@ -1191,6 +1192,27 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1218938662
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1218938659}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79b766fe81b2e4617adf4bf4ea65e572, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tilemap: {fileID: 1270004437}
+  default_tile: {fileID: 11400000, guid: 10c9edee62f0f054da34586bc4321c5e, type: 2}
+  obstacle: {fileID: 0}
+  red_tile: {fileID: 11400000, guid: 7fcbfc8e2c0d2a24b880fa64c5db73cf, type: 2}
+  orange_tile: {fileID: 11400000, guid: be98927d4b1a8984eadbd374fa003341, type: 2}
+  width: 22
+  height: 11
+  x: 0
+  y: 0
 --- !u!1 &1270004434
 GameObject:
   m_ObjectHideFlags: 0
