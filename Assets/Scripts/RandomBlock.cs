@@ -50,7 +50,7 @@ public class RandomBlock : MonoBehaviour {
                 blockList.Add(pos);
             }
             nextTime += 6;
-            numBlocks++;
+            numBlocks = numBlocks +5;
         }
     }
 
