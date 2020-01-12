@@ -1,0 +1,7303 @@
+fileFormatVersion: 2
+guid: 0fb397be70631294c9e64c96b94b14e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 525466450086903809
+    second: BobRossPixel1_0
+  - first:
+      213: 9190132279879314074
+    second: BobRossPixel1_1
+  - first:
+      213: -2803305618289148119
+    second: BobRossPixel1_2
+  - first:
+      213: -1546885628774050136
+    second: BobRossPixel1_3
+  - first:
+      213: 6522217045798129118
+    second: BobRossPixel1_4
+  - first:
+      213: 6647114084647820470
+    second: BobRossPixel1_5
+  - first:
+      213: 7659760115386441216
+    second: BobRossPixel1_6
+  - first:
+      213: 6253702664019362813
+    second: BobRossPixel1_7
+  - first:
+      213: -2429943900975568781
+    second: BobRossPixel1_8
+  - first:
+      213: 1265973815590492462
+    second: BobRossPixel1_9
+  - first:
+      213: 2701841860601632305
+    second: BobRossPixel1_10
+  - first:
+      213: 2090412513314478671
+    second: BobRossPixel1_11
+  - first:
+      213: 3518388280877860374
+    second: BobRossPixel1_12
+  - first:
+      213: 977887677128327377
+    second: BobRossPixel1_13
+  - first:
+      213: -7726685128646371244
+    second: BobRossPixel1_14
+  - first:
+      213: 989579899466859499
+    second: BobRossPixel1_15
+  - first:
+      213: 8591899877653372698
+    second: BobRossPixel1_16
+  - first:
+      213: -6392737922062318422
+    second: BobRossPixel1_17
+  - first:
+      213: -7624762435769114058
+    second: BobRossPixel1_18
+  - first:
+      213: -477949935354878975
+    second: BobRossPixel1_19
+  - first:
+      213: 6469126373893528670
+    second: BobRossPixel1_20
+  - first:
+      213: 4696907835916812854
+    second: BobRossPixel1_21
+  - first:
+      213: 4934779671708510271
+    second: BobRossPixel1_22
+  - first:
+      213: -8575763173973390925
+    second: BobRossPixel1_23
+  - first:
+      213: -3731653899548346306
+    second: BobRossPixel1_24
+  - first:
+      213: -2655889918179020766
+    second: BobRossPixel1_25
+  - first:
+      213: -3648345257731660823
+    second: BobRossPixel1_26
+  - first:
+      213: 1012565455869695803
+    second: BobRossPixel1_27
+  - first:
+      213: 1645235550280777137
+    second: BobRossPixel1_28
+  - first:
+      213: -2488319772742953717
+    second: BobRossPixel1_29
+  - first:
+      213: 6444619987588024620
+    second: BobRossPixel1_30
+  - first:
+      213: -2139485742126583162
+    second: BobRossPixel1_31
+  - first:
+      213: -2797155895636794300
+    second: BobRossPixel1_32
+  - first:
+      213: -8200308860247977749
+    second: BobRossPixel1_33
+  - first:
+      213: -4431592322099007747
+    second: BobRossPixel1_34
+  - first:
+      213: -6474432178429723127
+    second: BobRossPixel1_35
+  - first:
+      213: 8028262002938743419
+    second: BobRossPixel1_36
+  - first:
+      213: -6844814261870386638
+    second: BobRossPixel1_37
+  - first:
+      213: 8903766876933086492
+    second: BobRossPixel1_38
+  - first:
+      213: -6282803411738761913
+    second: BobRossPixel1_39
+  - first:
+      213: 1575564543325058160
+    second: BobRossPixel1_40
+  - first:
+      213: 2228450811710634763
+    second: BobRossPixel1_41
+  - first:
+      213: -1852602631424769924
+    second: BobRossPixel1_42
+  - first:
+      213: -6017177294966000370
+    second: BobRossPixel1_43
+  - first:
+      213: 3705177658163994534
+    second: BobRossPixel1_44
+  - first:
+      213: -811835274196965430
+    second: BobRossPixel1_45
+  - first:
+      213: 7726919334562358157
+    second: BobRossPixel1_46
+  - first:
+      213: 8930251198724891829
+    second: BobRossPixel1_47
+  - first:
+      213: -5641788844726300567
+    second: BobRossPixel1_48
+  - first:
+      213: -8347119691074614343
+    second: BobRossPixel1_49
+  - first:
+      213: 5444564437592330543
+    second: BobRossPixel1_50
+  - first:
+      213: 1188245298706893200
+    second: BobRossPixel1_51
+  - first:
+      213: -8338365919460730506
+    second: BobRossPixel1_52
+  - first:
+      213: -4727095875273254602
+    second: BobRossPixel1_53
+  - first:
+      213: -6901988738913215705
+    second: BobRossPixel1_54
+  - first:
+      213: -2199545378883636826
+    second: BobRossPixel1_55
+  - first:
+      213: 2581701833591985051
+    second: BobRossPixel1_56
+  - first:
+      213: -5017159675692031807
+    second: BobRossPixel1_57
+  - first:
+      213: -4385146750918791371
+    second: BobRossPixel1_58
+  - first:
+      213: -2635542522280415889
+    second: BobRossPixel1_59
+  - first:
+      213: -647364321062809571
+    second: BobRossPixel1_60
+  - first:
+      213: 2956599940715536738
+    second: BobRossPixel1_61
+  - first:
+      213: -1765059695247138156
+    second: BobRossPixel1_62
+  - first:
+      213: 5023231330316341641
+    second: BobRossPixel1_63
+  - first:
+      213: 1552214773731391947
+    second: BobRossPixel1_64
+  - first:
+      213: 5534252376319659230
+    second: BobRossPixel1_65
+  - first:
+      213: -1077609429895056338
+    second: BobRossPixel1_66
+  - first:
+      213: -196846277416200716
+    second: BobRossPixel1_67
+  - first:
+      213: 5762608856080452856
+    second: BobRossPixel1_68
+  - first:
+      213: -3897019508856154826
+    second: BobRossPixel1_69
+  - first:
+      213: -4056882729351973058
+    second: BobRossPixel1_70
+  - first:
+      213: -1287842129189378376
+    second: BobRossPixel1_71
+  - first:
+      213: 5030253141588448239
+    second: BobRossPixel1_72
+  - first:
+      213: 6997364587609499408
+    second: BobRossPixel1_73
+  - first:
+      213: 8713501739240116024
+    second: BobRossPixel1_74
+  - first:
+      213: -7636997067468495594
+    second: BobRossPixel1_75
+  - first:
+      213: -2055212617180284539
+    second: BobRossPixel1_76
+  - first:
+      213: 7318563904467717670
+    second: BobRossPixel1_77
+  - first:
+      213: 6660762104645279690
+    second: BobRossPixel1_78
+  - first:
+      213: -1243670503893001217
+    second: BobRossPixel1_79
+  - first:
+      213: 4305192237683361866
+    second: BobRossPixel1_80
+  - first:
+      213: 876075606822810378
+    second: BobRossPixel1_81
+  - first:
+      213: -1273800153066228813
+    second: BobRossPixel1_82
+  - first:
+      213: 2404864542021103324
+    second: BobRossPixel1_83
+  - first:
+      213: 4432388269161668827
+    second: BobRossPixel1_84
+  - first:
+      213: -6031155894591618298
+    second: BobRossPixel1_85
+  - first:
+      213: 9031987592187736206
+    second: BobRossPixel1_86
+  - first:
+      213: -7554422148014065481
+    second: BobRossPixel1_87
+  - first:
+      213: -1001091536040642391
+    second: BobRossPixel1_88
+  - first:
+      213: 3745158936362795073
+    second: BobRossPixel1_89
+  - first:
+      213: 4909930513249512724
+    second: BobRossPixel1_90
+  - first:
+      213: -5455438666753308743
+    second: BobRossPixel1_91
+  - first:
+      213: -2979450361616980190
+    second: BobRossPixel1_92
+  - first:
+      213: 1167949332523141394
+    second: BobRossPixel1_93
+  - first:
+      213: -521459649842066743
+    second: BobRossPixel1_94
+  - first:
+      213: 8777889106770937590
+    second: BobRossPixel1_95
+  - first:
+      213: 1002954217085215542
+    second: BobRossPixel1_96
+  - first:
+      213: 7024512306817815338
+    second: BobRossPixel1_97
+  - first:
+      213: -8044360262740461532
+    second: BobRossPixel1_98
+  - first:
+      213: 7797524369136322047
+    second: BobRossPixel1_99
+  - first:
+      213: -5532416522041925739
+    second: BobRossPixel1_100
+  - first:
+      213: 2831168074217111467
+    second: BobRossPixel1_101
+  - first:
+      213: -6121977792466504597
+    second: BobRossPixel1_102
+  - first:
+      213: 495523281526097013
+    second: BobRossPixel1_103
+  - first:
+      213: -2442034853622988332
+    second: BobRossPixel1_104
+  - first:
+      213: 5141794392345023366
+    second: BobRossPixel1_105
+  - first:
+      213: 7310520965738405083
+    second: BobRossPixel1_106
+  - first:
+      213: -3838844512547634875
+    second: BobRossPixel1_107
+  - first:
+      213: 5641718888405615900
+    second: BobRossPixel1_108
+  - first:
+      213: 1332644946606992622
+    second: BobRossPixel1_109
+  - first:
+      213: -2894060729692545912
+    second: BobRossPixel1_110
+  - first:
+      213: 8437014929385298436
+    second: BobRossPixel1_111
+  - first:
+      213: 4753526570035636857
+    second: BobRossPixel1_112
+  - first:
+      213: 6551785712940090740
+    second: BobRossPixel1_113
+  - first:
+      213: -6625660944613914194
+    second: BobRossPixel1_114
+  - first:
+      213: 1779792744877078489
+    second: BobRossPixel1_115
+  - first:
+      213: 2757826339636898332
+    second: BobRossPixel1_116
+  - first:
+      213: 1790795042999137083
+    second: BobRossPixel1_117
+  - first:
+      213: -8866365170412631120
+    second: BobRossPixel1_118
+  - first:
+      213: -7814632439945356230
+    second: BobRossPixel1_119
+  - first:
+      213: -6511386081251102295
+    second: BobRossPixel1_120
+  - first:
+      213: -8827078080869884453
+    second: BobRossPixel1_121
+  - first:
+      213: -3946440249379266964
+    second: BobRossPixel1_122
+  - first:
+      213: -6085998789830807627
+    second: BobRossPixel1_123
+  - first:
+      213: -5346914300458960193
+    second: BobRossPixel1_124
+  - first:
+      213: -1158847220161347287
+    second: BobRossPixel1_125
+  - first:
+      213: -7556386151345928353
+    second: BobRossPixel1_126
+  - first:
+      213: 7494364261504003486
+    second: BobRossPixel1_127
+  - first:
+      213: -870394035311351221
+    second: BobRossPixel1_128
+  - first:
+      213: 7219123570209239382
+    second: BobRossPixel1_129
+  - first:
+      213: -703387860739822658
+    second: BobRossPixel1_130
+  - first:
+      213: -2760360884036891929
+    second: BobRossPixel1_131
+  - first:
+      213: 6275721636479846432
+    second: BobRossPixel1_132
+  - first:
+      213: 3467904217450278714
+    second: BobRossPixel1_133
+  - first:
+      213: 3679232606589980205
+    second: BobRossPixel1_134
+  - first:
+      213: 1674866941364215982
+    second: BobRossPixel1_135
+  - first:
+      213: -8100657297718719846
+    second: BobRossPixel1_136
+  - first:
+      213: 3690232304924762932
+    second: BobRossPixel1_137
+  - first:
+      213: -7005222520604314136
+    second: BobRossPixel1_138
+  - first:
+      213: -5503506040265188487
+    second: BobRossPixel1_139
+  - first:
+      213: 5819100483102700909
+    second: BobRossPixel1_140
+  - first:
+      213: -7683108123998712798
+    second: BobRossPixel1_141
+  - first:
+      213: -7807960458684850515
+    second: BobRossPixel1_142
+  - first:
+      213: 7422463179816469742
+    second: BobRossPixel1_143
+  - first:
+      213: 6412291085274582291
+    second: BobRossPixel1_144
+  - first:
+      213: 6301799581204680770
+    second: BobRossPixel1_145
+  - first:
+      213: 6256449258496372138
+    second: BobRossPixel1_146
+  - first:
+      213: -96238611638165809
+    second: BobRossPixel1_147
+  - first:
+      213: 7532917767600475477
+    second: BobRossPixel1_148
+  - first:
+      213: -6237877996269680618
+    second: BobRossPixel1_149
+  - first:
+      213: 3593929401368603385
+    second: BobRossPixel1_150
+  - first:
+      213: 3176344377824886190
+    second: BobRossPixel1_151
+  - first:
+      213: 817454094456061381
+    second: BobRossPixel1_152
+  - first:
+      213: -4735269203961988525
+    second: BobRossPixel1_153
+  - first:
+      213: 1446994971174125741
+    second: BobRossPixel1_154
+  - first:
+      213: -4886475401770148680
+    second: BobRossPixel1_155
+  - first:
+      213: 2562107592869485969
+    second: BobRossPixel1_156
+  - first:
+      213: 2213134079687613564
+    second: BobRossPixel1_157
+  - first:
+      213: 6531797951406484574
+    second: BobRossPixel1_158
+  - first:
+      213: -7831105027487864643
+    second: BobRossPixel1_159
+  - first:
+      213: 4429417281026329906
+    second: BobRossPixel1_160
+  - first:
+      213: 402237398343330371
+    second: BobRossPixel1_161
+  - first:
+      213: 2136873299420619867
+    second: BobRossPixel1_162
+  - first:
+      213: -5858174349516557205
+    second: BobRossPixel1_163
+  - first:
+      213: 197364533214008295
+    second: BobRossPixel1_164
+  - first:
+      213: 2947419108275050736
+    second: BobRossPixel1_165
+  - first:
+      213: -3880260400925725898
+    second: BobRossPixel1_166
+  - first:
+      213: 7875146669919974143
+    second: BobRossPixel1_167
+  - first:
+      213: 8929633030091505245
+    second: BobRossPixel1_168
+  - first:
+      213: -7168413673054262618
+    second: BobRossPixel1_169
+  - first:
+      213: -6782546787560010694
+    second: BobRossPixel1_170
+  - first:
+      213: 9029239367395784680
+    second: BobRossPixel1_171
+  - first:
+      213: 266983238828181255
+    second: BobRossPixel1_172
+  - first:
+      213: 1559170349584904540
+    second: BobRossPixel1_173
+  - first:
+      213: -9006463751444875000
+    second: BobRossPixel1_174
+  - first:
+      213: -7516582703633106954
+    second: BobRossPixel1_175
+  - first:
+      213: 979617851194869110
+    second: BobRossPixel1_176
+  - first:
+      213: -8066353435137959093
+    second: BobRossPixel1_177
+  - first:
+      213: -9044329817586014349
+    second: BobRossPixel1_178
+  - first:
+      213: -2522566677346178474
+    second: BobRossPixel1_179
+  - first:
+      213: -4911365984569285415
+    second: BobRossPixel1_180
+  - first:
+      213: 4448523006697614820
+    second: BobRossPixel1_181
+  - first:
+      213: -3313716446068599019
+    second: BobRossPixel1_182
+  - first:
+      213: 3657381218506046959
+    second: BobRossPixel1_183
+  - first:
+      213: -460118217206509466
+    second: BobRossPixel1_184
+  - first:
+      213: 685094084277161952
+    second: BobRossPixel1_185
+  - first:
+      213: 5324942805037500335
+    second: BobRossPixel1_186
+  - first:
+      213: -3717132472968085296
+    second: BobRossPixel1_187
+  - first:
+      213: 1192459799794644100
+    second: BobRossPixel1_188
+  - first:
+      213: -7499111830165975765
+    second: BobRossPixel1_189
+  - first:
+      213: -2410246312263265344
+    second: BobRossPixel1_190
+  - first:
+      213: -7921463805617103774
+    second: BobRossPixel1_191
+  - first:
+      213: 2767203180973029551
+    second: BobRossPixel1_192
+  - first:
+      213: 6323584960520185333
+    second: BobRossPixel1_193
+  - first:
+      213: 5613389129082491679
+    second: BobRossPixel1_194
+  - first:
+      213: -424270489848481830
+    second: BobRossPixel1_195
+  - first:
+      213: 5173698425520956560
+    second: BobRossPixel1_196
+  - first:
+      213: 8601685629267654041
+    second: BobRossPixel1_197
+  - first:
+      213: -215600737802125750
+    second: BobRossPixel1_198
+  - first:
+      213: -9160426275340550657
+    second: BobRossPixel1_199
+  - first:
+      213: 8846734788091734129
+    second: BobRossPixel1_200
+  - first:
+      213: -3205570090559521883
+    second: BobRossPixel1_201
+  - first:
+      213: 6048672601859624678
+    second: BobRossPixel1_202
+  - first:
+      213: -3145785428090183485
+    second: BobRossPixel1_203
+  - first:
+      213: -7312693594534642901
+    second: BobRossPixel1_204
+  - first:
+      213: 2399666023995640564
+    second: BobRossPixel1_205
+  - first:
+      213: -2848099540906752835
+    second: BobRossPixel1_206
+  - first:
+      213: 4827967154766880744
+    second: BobRossPixel1_207
+  - first:
+      213: 2024301825714288658
+    second: BobRossPixel1_208
+  - first:
+      213: -6338428011330498418
+    second: BobRossPixel1_209
+  - first:
+      213: 7141079198658867786
+    second: BobRossPixel1_210
+  - first:
+      213: 4223364200397619194
+    second: BobRossPixel1_211
+  - first:
+      213: -2277539481818808166
+    second: BobRossPixel1_212
+  - first:
+      213: -3135645958084373608
+    second: BobRossPixel1_213
+  - first:
+      213: 3557521427527518190
+    second: BobRossPixel1_214
+  - first:
+      213: -5537572309319473991
+    second: BobRossPixel1_215
+  - first:
+      213: -8561434887140514930
+    second: BobRossPixel1_216
+  - first:
+      213: -8181301448299932879
+    second: BobRossPixel1_217
+  - first:
+      213: -7246187825660240243
+    second: BobRossPixel1_218
+  - first:
+      213: 9017595996130341467
+    second: BobRossPixel1_219
+  - first:
+      213: -8136545999022993029
+    second: BobRossPixel1_220
+  - first:
+      213: -7526643065654247472
+    second: BobRossPixel1_221
+  - first:
+      213: 2866772184114829902
+    second: BobRossPixel1_222
+  - first:
+      213: -6746059412994301915
+    second: BobRossPixel1_223
+  - first:
+      213: -8642658931337502544
+    second: BobRossPixel1_224
+  - first:
+      213: -8523420453823519103
+    second: BobRossPixel1_225
+  - first:
+      213: 3025433783324792708
+    second: BobRossPixel1_226
+  - first:
+      213: -2213309381684573177
+    second: BobRossPixel1_227
+  - first:
+      213: 6619631658127504953
+    second: BobRossPixel1_228
+  - first:
+      213: 2664327616443330747
+    second: BobRossPixel1_229
+  - first:
+      213: 7784429320030558649
+    second: BobRossPixel1_230
+  - first:
+      213: -6771312602479783554
+    second: BobRossPixel1_231
+  - first:
+      213: 5459930538791745421
+    second: BobRossPixel1_232
+  - first:
+      213: -3505649037069362232
+    second: BobRossPixel1_233
+  - first:
+      213: -829159448682666152
+    second: BobRossPixel1_234
+  - first:
+      213: -8367627843092070346
+    second: BobRossPixel1_235
+  - first:
+      213: 4053806744093060763
+    second: BobRossPixel1_236
+  - first:
+      213: 2551232307294157513
+    second: BobRossPixel1_237
+  - first:
+      213: 4488392397046254822
+    second: BobRossPixel1_238
+  - first:
+      213: 1752404466209950316
+    second: BobRossPixel1_239
+  - first:
+      213: 8962705291516488755
+    second: BobRossPixel1_240
+  - first:
+      213: -5790046834329112875
+    second: BobRossPixel1_241
+  - first:
+      213: -7127018578317285377
+    second: BobRossPixel1_242
+  - first:
+      213: -7189778315234543561
+    second: BobRossPixel1_243
+  - first:
+      213: 4222531542866571109
+    second: BobRossPixel1_244
+  - first:
+      213: 7521851044359538282
+    second: BobRossPixel1_245
+  - first:
+      213: 255504146909043588
+    second: BobRossPixel1_246
+  - first:
+      213: 5575133105156942079
+    second: BobRossPixel1_247
+  - first:
+      213: 987778884916469528
+    second: BobRossPixel1_248
+  - first:
+      213: -402523631072651245
+    second: BobRossPixel1_249
+  - first:
+      213: -7925709206303120164
+    second: BobRossPixel1_250
+  - first:
+      213: -5173226759887792202
+    second: BobRossPixel1_251
+  - first:
+      213: -7595720985503003818
+    second: BobRossPixel1_252
+  - first:
+      213: -10230183479405673
+    second: BobRossPixel1_253
+  - first:
+      213: 3026084314355676591
+    second: BobRossPixel1_254
+  - first:
+      213: -3034375456723338146
+    second: BobRossPixel1_255
+  - first:
+      213: -7906718688288776786
+    second: BobRossPixel1_256
+  - first:
+      213: -3038284856197127855
+    second: BobRossPixel1_257
+  - first:
+      213: -7277162378518052873
+    second: BobRossPixel1_258
+  - first:
+      213: 7053802376685124549
+    second: BobRossPixel1_259
+  - first:
+      213: 6931880137965154956
+    second: BobRossPixel1_260
+  - first:
+      213: 8877287119076088887
+    second: BobRossPixel1_261
+  - first:
+      213: -4374932318470961023
+    second: BobRossPixel1_262
+  - first:
+      213: -2150956847055716156
+    second: BobRossPixel1_263
+  - first:
+      213: 7638060874379414189
+    second: BobRossPixel1_264
+  - first:
+      213: -6748537910677281640
+    second: BobRossPixel1_265
+  - first:
+      213: 7497376518929660291
+    second: BobRossPixel1_266
+  - first:
+      213: -2672640077957387410
+    second: BobRossPixel1_267
+  - first:
+      213: -5832688295728872684
+    second: BobRossPixel1_268
+  - first:
+      213: -7835885084788287957
+    second: BobRossPixel1_269
+  - first:
+      213: 6259397782841242174
+    second: BobRossPixel1_270
+  - first:
+      213: -2466326223822638176
+    second: BobRossPixel1_271
+  - first:
+      213: -8360311726149320347
+    second: BobRossPixel1_272
+  - first:
+      213: 1090416312282239503
+    second: BobRossPixel1_273
+  - first:
+      213: -8673362310938743297
+    second: BobRossPixel1_274
+  - first:
+      213: 208729399743426256
+    second: BobRossPixel1_275
+  - first:
+      213: -654144383543689911
+    second: BobRossPixel1_276
+  - first:
+      213: -3268955096718497034
+    second: BobRossPixel1_277
+  - first:
+      213: 85209501039502917
+    second: BobRossPixel1_278
+  - first:
+      213: 5074306293580839024
+    second: BobRossPixel1_279
+  - first:
+      213: -570093888669119341
+    second: BobRossPixel1_280
+  - first:
+      213: -8353446237895858657
+    second: BobRossPixel1_281
+  - first:
+      213: 4269593610520147490
+    second: BobRossPixel1_282
+  - first:
+      213: -8974646023814565662
+    second: BobRossPixel1_283
+  - first:
+      213: -7103485467161237349
+    second: BobRossPixel1_284
+  - first:
+      213: -1687521299023801723
+    second: BobRossPixel1_285
+  - first:
+      213: -359634236979747932
+    second: BobRossPixel1_286
+  - first:
+      213: -8051551207896953663
+    second: BobRossPixel1_287
+  - first:
+      213: -5705985244285366905
+    second: BobRossPixel1_288
+  - first:
+      213: 2429365173825949325
+    second: BobRossPixel1_289
+  - first:
+      213: -3537126668872183556
+    second: BobRossPixel1_290
+  - first:
+      213: -2613909710733016849
+    second: BobRossPixel1_291
+  - first:
+      213: 5852160359330560389
+    second: BobRossPixel1_292
+  - first:
+      213: 7302089567023020010
+    second: BobRossPixel1_293
+  - first:
+      213: 902137807972199232
+    second: BobRossPixel1_294
+  - first:
+      213: -4658453224559823794
+    second: BobRossPixel1_295
+  - first:
+      213: -3926779360514362304
+    second: BobRossPixel1_296
+  - first:
+      213: -771092817429256973
+    second: BobRossPixel1_297
+  - first:
+      213: -2915247161631230785
+    second: BobRossPixel1_298
+  - first:
+      213: -8386692156715914381
+    second: BobRossPixel1_299
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 25
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BobRossPixel1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 379
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a218f8fd18c1a4f883e673e0c378ab
+      internalID: 525466450086903809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 379
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b10567167a672342814f387dff730fd
+      internalID: 9190132279879314074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 379
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872e4415996f83f4db787b0bfa99b23b
+      internalID: -2803305618289148119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 379
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf90156a8307cc147b27acf85a60fd8b
+      internalID: -1546885628774050136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 379
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc940af5573ef04e8d826291427382a
+      internalID: 6522217045798129118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 379
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc59027075a4dc14db815527e5274a92
+      internalID: 6647114084647820470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 379
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24437e7467e46542aae2ce677f00ecf
+      internalID: 7659760115386441216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 379
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60516aafe3722204381ca9845349c8ee
+      internalID: 6253702664019362813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 379
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7a5812e8c66f44489fafaba2a7f0c5
+      internalID: -2429943900975568781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 379
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632fff2f740b64740b0e6069b8cce57c
+      internalID: 1265973815590492462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 379
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96e5854900b8fb4cbba5c0aa05f8a95
+      internalID: 2701841860601632305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 379
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c781199f0842b64092a0559dd2cec63
+      internalID: 2090412513314478671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 379
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c271b66bf186ec45a583cf449828e68
+      internalID: 3518388280877860374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 379
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ef7e57a3e478448a0e9b0eb4d3d3d3
+      internalID: 977887677128327377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 379
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e3cd3c710e127408eceb9cef77355f
+      internalID: -7726685128646371244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 379
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3171e36e60ca1314d8268b4d0503ed61
+      internalID: 989579899466859499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 379
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f311cf17457fa445ba1e87432c1bd30
+      internalID: 8591899877653372698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 379
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a082a50813efef48912f3f70d49bc17
+      internalID: -6392737922062318422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 379
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefa9a3c62794fa4296dc9fff8f50a4e
+      internalID: -7624762435769114058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 379
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167139e78ee63c348b7a681d2c43983e
+      internalID: -477949935354878975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 379
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ccca368d065ec41a703a297abdaeac
+      internalID: 6469126373893528670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_21
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 379
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7a81b5e60c6d847af0ba53b23d9cc7
+      internalID: 4696907835916812854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_22
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 379
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325b8c04f1d27c0408d3a57041d0483d
+      internalID: 4934779671708510271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_23
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 379
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00fbbf6a0612824cb68011b6a11dea6
+      internalID: -8575763173973390925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 379
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ddd7c7039dff040a29a7352ec6aaf4
+      internalID: -3731653899548346306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 347
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc908f6f9e4f1394ea25940580dd17da
+      internalID: -2655889918179020766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 347
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9f68f119ff5c74b81641d37a72e336
+      internalID: -3648345257731660823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 347
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11831ba03f85b434090cc7b264c67c75
+      internalID: 1012565455869695803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 347
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf089d4cfa50a74fa0396559774aff9
+      internalID: 1645235550280777137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 347
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1109514bddf4c40966a59b76ab4f8a
+      internalID: -2488319772742953717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 347
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5803ff5b7141647952a2b6cb63ea90
+      internalID: 6444619987588024620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 347
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efee0b1ec8e17045975d39d74f3ade8
+      internalID: -2139485742126583162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 347
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a827bbf5260a24d87db09e2de4ec5f
+      internalID: -2797155895636794300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 347
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61524aaa69a6ffe47b37cf5f9b23660b
+      internalID: -8200308860247977749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_34
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 347
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07df69c5a54c1934b8bf50c2ea8ca879
+      internalID: -4431592322099007747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 347
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2f2094f83f4024fa837ecf0a1510c0
+      internalID: -6474432178429723127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_36
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 347
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9213217d109b6d419d24d36971923dc
+      internalID: 8028262002938743419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_37
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 347
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00634e1cde6cc6459624479eaff976c
+      internalID: -6844814261870386638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_38
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 347
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67734db1a8dea20408d9c51961ecda69
+      internalID: 8903766876933086492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 347
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11647e7c8742fc54f81c71782d11bef2
+      internalID: -6282803411738761913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_40
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 347
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946792a4c3e1dd349bc340a8ca7c319d
+      internalID: 1575564543325058160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 347
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2639d563a8c24f449a221cfeb09e6074
+      internalID: 2228450811710634763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_42
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 347
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cde251ef819b864e9a38371e0a07639
+      internalID: -1852602631424769924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 347
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1665657a5a3eeb49a12d0997754ca50
+      internalID: -6017177294966000370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_44
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 347
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52cf1b1d4b9ac1448850b3b2e4d5d3a
+      internalID: 3705177658163994534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_45
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 347
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c181926b6fda5240ba02b04dfa4b353
+      internalID: -811835274196965430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_46
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 347
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82675efe8395724f99a62331cb415ba
+      internalID: 7726919334562358157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_47
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 347
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a4091e093865145a2ea95d5f014ed4
+      internalID: 8930251198724891829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_48
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 347
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa12ea7c2fb47d4d8e78e2a3825d1d1
+      internalID: -5641788844726300567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_49
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 347
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4268f29ff117454ca19fb949a83dcfc
+      internalID: -8347119691074614343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1366347f4e729ed498cfe6f3cc932910
+      internalID: 5444564437592330543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 315
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7644abb924dc5b748b47bc0301c156ec
+      internalID: 1188245298706893200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 315
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988aa741051ed0045a7ae7aed28a0a45
+      internalID: -8338365919460730506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 315
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4462b601945857943a409764e5b9ad7c
+      internalID: -4727095875273254602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 315
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6212d5a0f56424497a9c073f4b33ae
+      internalID: -6901988738913215705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 315
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb81514faf7a60f4280e4741d9052389
+      internalID: -2199545378883636826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 315
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c770091f2ad204092b9dbf5bf76e61
+      internalID: 2581701833591985051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 315
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5627860e600c9884cb58ea8548b9808a
+      internalID: -5017159675692031807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 315
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c065d58ae1ade4f9dcd2f055251bf6
+      internalID: -4385146750918791371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 315
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dd862159bd49344a99dca4fd1d1fa1
+      internalID: -2635542522280415889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_60
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 315
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b541a6e7eb07740b0eeb5d451b64e2
+      internalID: -647364321062809571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_61
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 315
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702f7e5e1acbd514a81ed6f961aaa420
+      internalID: 2956599940715536738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 315
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264a0b149c03ca2488067606a2bdd2e4
+      internalID: -1765059695247138156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_63
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 315
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b8b14f1a73a96418cc9aea001a9cf6
+      internalID: 5023231330316341641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 315
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b6f67dbc89a96449f3448467679084
+      internalID: 1552214773731391947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_65
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 315
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773781cf8a778ef41a7afeb36518796e
+      internalID: 5534252376319659230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_66
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 315
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32d1a231816ecc4084dce54be909bc2
+      internalID: -1077609429895056338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_67
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 315
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8de139e90903243b0c099f33c48b2b
+      internalID: -196846277416200716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_68
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 315
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364e5c76152b1244b9e6e35fc0f398f7
+      internalID: 5762608856080452856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_69
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 315
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9676e1a4ce91a4788edd23497f1a32
+      internalID: -3897019508856154826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_70
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 315
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119cb5b3fbeca3e41be72ae11dfbb809
+      internalID: -4056882729351973058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_71
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 315
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065aa74d036fd60458c109483b0f42a3
+      internalID: -1287842129189378376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_72
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 315
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10eaabbe17e5c3340a671a54db53aa60
+      internalID: 5030253141588448239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_73
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 315
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23eed5c2d09e49469290d9147b4fa39
+      internalID: 6997364587609499408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_74
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 315
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8e1311837f92c4280991116c4605ca
+      internalID: 8713501739240116024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 283
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147d450c3d0d12541ac9140abad96f39
+      internalID: -7636997067468495594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_76
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 283
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dc4a6edb414b541b650cac4d84baf8
+      internalID: -2055212617180284539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_77
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 283
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2ea39ed9e0a514eb37d9cb7aa75e85
+      internalID: 7318563904467717670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 283
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfc57ca6f298d24b9e2eb43c9464e50
+      internalID: 6660762104645279690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_79
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 283
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620d455fd3beb2744877355e3831b3f4
+      internalID: -1243670503893001217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 283
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81e4c9d829fe7e468cacfbcfa6470cf
+      internalID: 4305192237683361866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 283
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea56d2fc5b717ef4da5dca8ac3727665
+      internalID: 876075606822810378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_82
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 283
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d188ea5973fe1ba4fa83d74b4de232bd
+      internalID: -1273800153066228813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_83
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 283
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32eda9d7f55353540b89ce9cb7cb8e1a
+      internalID: 2404864542021103324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_84
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 283
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371eb7d5225add04d8280ead76ad1f0b
+      internalID: 4432388269161668827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 283
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d431c5cdb1da23a4e916828ca7c9f7a3
+      internalID: -6031155894591618298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_86
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 283
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2b079df03f1cd4fa17a0e0ddf8fdde
+      internalID: 9031987592187736206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 283
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8844a6541af3a488465a87b51559cd
+      internalID: -7554422148014065481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_88
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 283
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689212094cea1cd4c88788b7dc3dd602
+      internalID: -1001091536040642391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_89
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 283
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f28ffaaf5dfe254f923c76f85d11c8f
+      internalID: 3745158936362795073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_90
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 283
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d987d2c1268d58f4a8468adb36a1a2df
+      internalID: 4909930513249512724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_91
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 283
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648305f4a0bc4cf4aadb599bcd77749e
+      internalID: -5455438666753308743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_92
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 283
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898e55868f4a6fe4ab1cf10bf98d0503
+      internalID: -2979450361616980190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_93
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 283
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5828a2c4fa70246a05e977753ec292
+      internalID: 1167949332523141394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_94
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 283
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db487cd4099507344a1591e8f72c7c74
+      internalID: -521459649842066743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_95
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 283
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5061871d3fd19fe4a80c3b96640ff615
+      internalID: 8777889106770937590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_96
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 283
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b439946c58af38408e9938388748482
+      internalID: 1002954217085215542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_97
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 283
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a60256dc538744ab1d1b3850ae7ad1
+      internalID: 7024512306817815338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_98
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 283
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d581a1b1cdd6e4197228ae02b3cd67
+      internalID: -8044360262740461532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_99
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 283
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed508e00d2d3c149a3d32b6da834ea7
+      internalID: 7797524369136322047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a9ee7bd9427074782a85fa63ce5e10
+      internalID: -5532416522041925739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_101
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 251
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6f9cf378574dd44958835b33b55b6e
+      internalID: 2831168074217111467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_102
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 251
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb0e5937bb0d6748b150bd503f1f9f4
+      internalID: -6121977792466504597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_103
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 251
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1023adc22c389047b93f98c7eaf8dbe
+      internalID: 495523281526097013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 251
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2af583c18f9d5429eaabb5179fb173
+      internalID: -2442034853622988332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_105
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 251
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77dcca5be4141347b4e48ed95bb8ccf
+      internalID: 5141794392345023366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_106
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 251
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94fd4a70b23ded47bcd0f27cbcc1176
+      internalID: 7310520965738405083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_107
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 251
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad6603941570c04a910736f0c65da98
+      internalID: -3838844512547634875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_108
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 251
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d719f8d10a90a438a37071337f33f9
+      internalID: 5641718888405615900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_109
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 251
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe477d2a6e16d3e4dbe224a3f1808ec8
+      internalID: 1332644946606992622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_110
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 251
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f3a76f1a797b64e8db7804bc3726ce
+      internalID: -2894060729692545912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_111
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 251
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b447150f3dae44da3c18891d14b854
+      internalID: 8437014929385298436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_112
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 251
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb35fb32f05c0ad4ebb71b14254a5e38
+      internalID: 4753526570035636857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_113
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 251
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8115a5430477ec84b9545f6cbce4f25a
+      internalID: 6551785712940090740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_114
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 251
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07ecaf22d8420e4b88c55e3e27c50db
+      internalID: -6625660944613914194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_115
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 251
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59338419d1652f4bb5680a96883d635
+      internalID: 1779792744877078489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 251
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d3da7d4fb64224cadb774cc6980f0a
+      internalID: 2757826339636898332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_117
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 251
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67df97affb0487149ad609ebd45c97d3
+      internalID: 1790795042999137083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_118
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 251
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc746afdeccd8e49a285d0248f50a25
+      internalID: -8866365170412631120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_119
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 251
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11a851c472e8d5498affea52c898c45
+      internalID: -7814632439945356230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_120
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 251
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0201ae8847ceeb4f84b74f102cdd1f9
+      internalID: -6511386081251102295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_121
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 251
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75012f46372a7140b554e63b654d49f
+      internalID: -8827078080869884453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_122
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 251
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07f9f10229f78940a35e68982086481
+      internalID: -3946440249379266964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_123
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 251
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e1f94c1a0fe3e498481ab080470121
+      internalID: -6085998789830807627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_124
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 251
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9636d8146c63c09488bff5d134ecda83
+      internalID: -5346914300458960193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91437cd96e529fa4dbbfa0b130e90dc1
+      internalID: -1158847220161347287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_126
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 219
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d995b622f5b794580fac15701a8ddd
+      internalID: -7556386151345928353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_127
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 219
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6f0f4eb910702429a31a074921e68d
+      internalID: 7494364261504003486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_128
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 219
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b317f3e9655ba4284276f7fbefdcb4
+      internalID: -870394035311351221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_129
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 219
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17148ccf2438504abcf512593a71dd4
+      internalID: 7219123570209239382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_130
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 219
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e01fc03f9e8bd48b974cd2908500e0
+      internalID: -703387860739822658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_131
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 219
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f4d6b1869c89e44b956c475ebe7212
+      internalID: -2760360884036891929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_132
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 219
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c050cd912dbea6418d1f571a1e4aae3
+      internalID: 6275721636479846432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_133
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 219
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13f5f0ca0937964e81ac0bb4e3c64e9
+      internalID: 3467904217450278714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_134
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 219
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7932ff7785b659940b31266ff8ed3d80
+      internalID: 3679232606589980205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_135
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 219
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4837cdc4164ed10499956edf6020234d
+      internalID: 1674866941364215982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_136
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 219
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b3b49819f9b41419cd246aac6979df
+      internalID: -8100657297718719846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_137
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 219
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a429e93ae623a04eb9def7e93fb7c1a
+      internalID: 3690232304924762932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_138
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 219
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82d3ecc3208d7c498bbf1755c76a246
+      internalID: -7005222520604314136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_139
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 219
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276c585b62781fe44b4437c5d1e16d5a
+      internalID: -5503506040265188487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_140
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 219
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44da1111672b83f41bf5c2baf428e04a
+      internalID: 5819100483102700909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 219
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88671c9d4d5146f42aa9f8b1265ee26b
+      internalID: -7683108123998712798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_142
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 219
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f81a9968c164e1418d57c32532d1763
+      internalID: -7807960458684850515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_143
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 219
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783dcf85eb337064ebbb5a3ab50c60a5
+      internalID: 7422463179816469742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_144
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 219
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b697e4718e0037e4784414be83b6d639
+      internalID: 6412291085274582291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_145
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 219
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261273f2497b37146bf1dab0be4bd1da
+      internalID: 6301799581204680770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_146
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 219
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd7c1ce51c8fd04f8a10369475aaa19
+      internalID: 6256449258496372138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_147
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 219
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1c083fda60f7f468596419b11d6f3f
+      internalID: -96238611638165809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_148
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 219
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56119273f0f1b3e44a08e1e67ca6f798
+      internalID: 7532917767600475477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_149
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 219
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021315dc7bab02c44b400f39a31c9b09
+      internalID: -6237877996269680618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea53200c86d4b094fb6d7eb5c2cc0e91
+      internalID: 3593929401368603385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_151
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 187
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0bf408dd40b7544a67cf2ef22df00e
+      internalID: 3176344377824886190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_152
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 187
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d160971e49df8468bb89ad30223566
+      internalID: 817454094456061381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_153
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 187
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12ef34a71d6e1d438e96e1fa8da3249
+      internalID: -4735269203961988525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_154
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 187
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8f932257ff2734791824a81f4c5705
+      internalID: 1446994971174125741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_155
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 187
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bec0595552ff0649828a7f6f6cf8b3a
+      internalID: -4886475401770148680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_156
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 187
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e9114467746944592ae5bb29bb846c
+      internalID: 2562107592869485969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_157
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 187
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa187e55dfae024a8637e352ab5d32b
+      internalID: 2213134079687613564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_158
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 187
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3213982ef1f682b438b19c4d053bd55c
+      internalID: 6531797951406484574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_159
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 187
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbfdd15cab3e644ebc9cfcee438e63a
+      internalID: -7831105027487864643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_160
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 187
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c594000d4271e41b35856a3ffb5814
+      internalID: 4429417281026329906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_161
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 187
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8536709e21729374f9dadd051a01d209
+      internalID: 402237398343330371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_162
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 187
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fe83668ee1f50478c01bd774183df1
+      internalID: 2136873299420619867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_163
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 187
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616a976162498fd4aa33a80973aed20a
+      internalID: -5858174349516557205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_164
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 187
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e02a088443fb4144997d09b5e87dd3f
+      internalID: 197364533214008295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_165
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 187
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ca8f2126263804db8a0378d66d7e0f
+      internalID: 2947419108275050736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_166
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 187
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317b00da95f8e7d4c9d768e54b49d063
+      internalID: -3880260400925725898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_167
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 187
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc53461806290f3499b40f3cb48b98f1
+      internalID: 7875146669919974143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 187
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df443c57ffab4f42923e1360817a315
+      internalID: 8929633030091505245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_169
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 187
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5412fd9c6843d459c852c34dad3545
+      internalID: -7168413673054262618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_170
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 187
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301083cfa5688b848a9cc48b89148419
+      internalID: -6782546787560010694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_171
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 187
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df74f897f0095d42a25648d7efab8a6
+      internalID: 9029239367395784680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_172
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 187
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425f833699a58094e953d7c05b559cec
+      internalID: 266983238828181255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_173
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 187
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78fc8efeda759b4bbe1c398ac2554ab
+      internalID: 1559170349584904540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_174
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 187
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4832f4a459a290a428d7e9ce2fdf5f45
+      internalID: -9006463751444875000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b9dacc93c6cd64daabd29b97a0afc6
+      internalID: -7516582703633106954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_176
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 155
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622b9e25b4d796543a7f821a470e806b
+      internalID: 979617851194869110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_177
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 155
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcd72126a2488145b69ce245b389892
+      internalID: -8066353435137959093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_178
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 155
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1439ccd068a077489044c91a88acdb6
+      internalID: -9044329817586014349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_179
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 155
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c72e519197f29489ca5da63ff40335
+      internalID: -2522566677346178474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_180
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 155
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9da8f52a0c985d47834d4ee4ee86066
+      internalID: -4911365984569285415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_181
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 155
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24362a6ea2f290146a2bb4c0d24d7f07
+      internalID: 4448523006697614820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_182
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 155
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655b43f5eb14f184e970e4525262171e
+      internalID: -3313716446068599019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_183
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 155
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849222bc43a22334ba37a78270520d1f
+      internalID: 3657381218506046959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_184
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 155
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207a543d38befc749ac3d656044186b4
+      internalID: -460118217206509466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_185
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 155
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5275adfa21eacbc48890709a4c2384fe
+      internalID: 685094084277161952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_186
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 155
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbebad2040e2314e9e12c1c54a2e369
+      internalID: 5324942805037500335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_187
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 155
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a399dde166709bf458c1ff6e5b6e76b7
+      internalID: -3717132472968085296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_188
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 155
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c73c4a7947dce4dab0693f13d0476e
+      internalID: 1192459799794644100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_189
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 155
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4606f3dce8512641a21cadf6653b72e
+      internalID: -7499111830165975765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_190
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 155
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8b4c006cf6a5c42a387d9c11181da2
+      internalID: -2410246312263265344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_191
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 155
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffce72f35c2d504698ddf69c2608d69
+      internalID: -7921463805617103774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_192
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 155
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c474a5d8a90140747b47b4c0e4ba3546
+      internalID: 2767203180973029551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_193
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 155
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919890de62e0e0946b94dd92551e2e96
+      internalID: 6323584960520185333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_194
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 155
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d0a4605c9d80045abfadce2048cacb
+      internalID: 5613389129082491679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_195
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 155
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633a33879b135394d8a82351533116cd
+      internalID: -424270489848481830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_196
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 155
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96ffff5303c8cc4e93c2cd321e0377b
+      internalID: 5173698425520956560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_197
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 155
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bb90a3364c4854baff5dc5a3293393
+      internalID: 8601685629267654041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_198
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 155
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c1caf4460e20f44be026bcd65fd93e
+      internalID: -215600737802125750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_199
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 155
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f370f3ed1f494e94ab612494e6731adc
+      internalID: -9160426275340550657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a158c88275cb146b5e17f5ed03347b
+      internalID: 8846734788091734129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_201
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 123
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1ea7be0bd476343a68d4b63cfaca4c
+      internalID: -3205570090559521883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_202
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 123
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821616ca8c5846a4ab251ba0c78e1612
+      internalID: 6048672601859624678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_203
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 123
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d0d4066b1a847499cb4c1c5b0e6288
+      internalID: -3145785428090183485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_204
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 123
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1b04df0b8aeb64388c177d4cabcc6f
+      internalID: -7312693594534642901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_205
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 123
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42f5524df193354d8992cb08927f424
+      internalID: 2399666023995640564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_206
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 123
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344f1b69a20ac144e9dfd5a1eee05a8e
+      internalID: -2848099540906752835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_207
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 123
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6a7b646952f3542b2b4009ecbecb04
+      internalID: 4827967154766880744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_208
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 123
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c92e704619cbac44a2b5e46934977cd
+      internalID: 2024301825714288658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_209
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 123
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fab8df4dfde45649a3dc9dfa15700ef
+      internalID: -6338428011330498418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_210
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 123
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc73b2407008fe84485306ad4b18aed8
+      internalID: 7141079198658867786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_211
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 123
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bf7f90cd27d9846993e60f93fc136c
+      internalID: 4223364200397619194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_212
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 123
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42869383534d7e40896e1fa921072c3
+      internalID: -2277539481818808166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_213
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 123
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905ad13ccae6bea4bb387dd43740f199
+      internalID: -3135645958084373608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_214
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 123
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8abe5d2bd596054fb31b3339b2f13e8
+      internalID: 3557521427527518190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_215
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 123
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d06142f351da943abf5094a4f4f5ea
+      internalID: -5537572309319473991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_216
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 123
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdc43be1041d604ab250fb4b227111d
+      internalID: -8561434887140514930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_217
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 123
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7165200c66789654592d3dfd7dd1f240
+      internalID: -8181301448299932879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_218
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 123
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b50fef7549d1740b79715e0afea4b3
+      internalID: -7246187825660240243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_219
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 123
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efd2f1e43874644fa9959f1a08f58ed
+      internalID: 9017595996130341467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_220
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 123
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbfe40c0ca1bfc4083d493862bf789a
+      internalID: -8136545999022993029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_221
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 123
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b82740574362344b5afde104dc0114
+      internalID: -7526643065654247472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_222
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 123
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6d4835598fd254b8c57a2a39ee1577
+      internalID: 2866772184114829902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_223
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 123
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342a9df8aa04507479a52640b9a94d8a
+      internalID: -6746059412994301915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_224
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 123
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2222aa486a41f754e8b0aa5cbcf049bb
+      internalID: -8642658931337502544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef41d125eb98484ea9f1ab359218208
+      internalID: -8523420453823519103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_226
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 91
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ddc6963909d6f439fe25e0b11bc858
+      internalID: 3025433783324792708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_227
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 91
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14abb0ee820de2e448d16e0d992b8082
+      internalID: -2213309381684573177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_228
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 91
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1d95f83f937a84d994d808ec6ccdcb
+      internalID: 6619631658127504953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_229
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 91
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9e5c612ca60114397f9270a9979edf
+      internalID: 2664327616443330747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_230
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 91
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdf389693a5cee4a9ca454dcbbbd49a
+      internalID: 7784429320030558649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_231
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 91
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9e2e82c11433b409e578e190e0994d
+      internalID: -6771312602479783554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_232
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 91
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b05cc1b0baf57478ff2d54a3e73143
+      internalID: 5459930538791745421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_233
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 91
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1af9d54850225a468aa727aed80921e
+      internalID: -3505649037069362232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_234
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 91
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c8384c3a58cce43b99c5004686aa72
+      internalID: -829159448682666152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_235
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 91
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c303bac1019bec847b66016c05e50a16
+      internalID: -8367627843092070346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_236
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 91
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c6715be3a71054599f8b1a2ec2b9ce
+      internalID: 4053806744093060763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_237
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 91
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5336ee2e051c37e49ace0e88c845f849
+      internalID: 2551232307294157513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_238
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 91
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6d95647a71fc14ab437bf2d24baccb
+      internalID: 4488392397046254822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_239
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 91
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29ef37fe17d5034d8653a53ad00a5de
+      internalID: 1752404466209950316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_240
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 91
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7228aacd87113ae4aaea6d2c31fbb775
+      internalID: 8962705291516488755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_241
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 91
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb14a95e69321b408b8cb1adef52dce
+      internalID: -5790046834329112875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_242
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 91
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c6772401bd8f042965cf15b38d0e14
+      internalID: -7127018578317285377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_243
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 91
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a820177f39933bb4eb79abd870b98050
+      internalID: -7189778315234543561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_244
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 91
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28af0e6bdc7c7dc4aa2012cf8817616d
+      internalID: 4222531542866571109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_245
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 91
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b1221009bb5e84b8d48792878b9d4c
+      internalID: 7521851044359538282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_246
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 91
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2cb5314e0fecc449dc27fb90237f59
+      internalID: 255504146909043588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_247
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 91
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5e0409e61981c47b26403552efdce5
+      internalID: 5575133105156942079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_248
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 91
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342ab5beecc41604ca0dc75ffda64494
+      internalID: 987778884916469528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_249
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 91
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460884597d71c6343b83279a8378178f
+      internalID: -402523631072651245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_250
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b343958297921645bef4cb817b0ad00
+      internalID: -7925709206303120164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_251
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 59
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6044e13eb752914c8baebc623b5453a
+      internalID: -5173226759887792202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_252
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 59
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7544f3cce0865b049aa9ea99c82e4664
+      internalID: -7595720985503003818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_253
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 59
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504673f602a2ff448b6b2558dd17c3da
+      internalID: -10230183479405673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_254
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 59
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75b388a97271c84aa04abb8cbf14603
+      internalID: 3026084314355676591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_255
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 59
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b7ea27bb930ef45ad4f03b1e522a4c
+      internalID: -3034375456723338146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_256
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 59
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc4027755579bc4297a692622baba63
+      internalID: -7906718688288776786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_257
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 59
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f4633d423204d41becfc8988d56cc6
+      internalID: -3038284856197127855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_258
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 59
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b721b0b7399e2f4897f59d7c765ba9b
+      internalID: -7277162378518052873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_259
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 59
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e5776fba0f78049aaa17931a8539c9
+      internalID: 7053802376685124549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_260
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 59
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9aab49808128ca41876fe8b27f3b655
+      internalID: 6931880137965154956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_261
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 59
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dfd599cca221f45a2fe2ae1438d53b
+      internalID: 8877287119076088887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_262
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 59
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019bb056193cc134592f570741852481
+      internalID: -4374932318470961023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_263
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 59
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ed5e32067555c40af356ea1b470227
+      internalID: -2150956847055716156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_264
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 59
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbeb46c14cd4df47ae797ff8dfd7473
+      internalID: 7638060874379414189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_265
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 59
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05aca6adc62ad31498e2fb0b39e82fa9
+      internalID: -6748537910677281640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_266
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 59
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8022b38d13b9664da249babd557e5e3
+      internalID: 7497376518929660291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_267
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 59
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc760208f35a0094786412726b1b3d82
+      internalID: -2672640077957387410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_268
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 59
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4a8171156bfac4a9bd75767d4487cc
+      internalID: -5832688295728872684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_269
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 59
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f875e9c59550bd4f8d02a80cb68286d
+      internalID: -7835885084788287957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_270
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 59
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0603fca33a221f54b941ab212a978d33
+      internalID: 6259397782841242174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_271
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 59
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a0a8124f5d6884c877543aa2d011d2
+      internalID: -2466326223822638176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_272
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 59
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97b555f9acfe4b4ba86e6dd61b44ae5
+      internalID: -8360311726149320347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_273
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 59
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002b05ce4379d6e4d96c38295f23d2d7
+      internalID: 1090416312282239503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_274
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 59
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caf449c1921f264090f9e1a687785a6
+      internalID: -8673362310938743297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_275
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134747b707f69744e8871e2ccbe39d61
+      internalID: 208729399743426256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_276
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 27
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5505c09aabca42428715396a1abffd5
+      internalID: -654144383543689911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_277
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 27
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7446bd1b736d04098cba0ae18685e0
+      internalID: -3268955096718497034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_278
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 27
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf793ee6851cb50409a318bb17ebfd61
+      internalID: 85209501039502917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_279
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 27
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d34bbe2de6dc6944bf8a03c4b8b97c2
+      internalID: 5074306293580839024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_280
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 27
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d920c13303f8e4e90245831efe961f
+      internalID: -570093888669119341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_281
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 27
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ca93031d4312b4cb6640f97d84d5a8
+      internalID: -8353446237895858657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_282
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 27
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92adf5621182f142928164d7e91d3e3
+      internalID: 4269593610520147490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_283
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 27
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2836330ddd5d80b45874a9c650fc81f5
+      internalID: -8974646023814565662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_284
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 27
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7298ba0f87bca49aa3ea94373e7920
+      internalID: -7103485467161237349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_285
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 27
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726947fdcaea9ec469a895ec8c0009df
+      internalID: -1687521299023801723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_286
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 27
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ca4ce635a45554b9000f907162a6d7
+      internalID: -359634236979747932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_287
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 27
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9280c900e7cbce4e862373b831f95db
+      internalID: -8051551207896953663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_288
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 27
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43fd1b844def5d42a5c61808018ce5e
+      internalID: -5705985244285366905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_289
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 27
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474aae002d62d014bb95206b90c5fd24
+      internalID: 2429365173825949325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_290
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 27
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deca865f5cb802143abbe786fe67c369
+      internalID: -3537126668872183556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_291
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 27
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9696eb7c53e3fd44a8ea8b49fbd4f64
+      internalID: -2613909710733016849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_292
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 27
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48d03692f8ac67468e39209c011db20
+      internalID: 5852160359330560389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_293
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 27
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92ec9b4bbbf1c84dad588e2459e7604
+      internalID: 7302089567023020010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_294
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 27
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c5b3c8f6c52134d9c0b2a34dfbaafa
+      internalID: 902137807972199232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_295
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 27
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196db0ec42ddc084eacb6bd7a17672d2
+      internalID: -4658453224559823794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_296
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 27
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485f395cce190ed4cb55eb46c3ec1396
+      internalID: -3926779360514362304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_297
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 27
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eabe7061cf7ede41bf006a89fd7087b
+      internalID: -771092817429256973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_298
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 27
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56e587efa6b9a844b79e4bbc1aaef10
+      internalID: -2915247161631230785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobRossPixel1_299
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 27
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea810403a53c4fe4ba1d9fb6fd770089
+      internalID: -8386692156715914381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
