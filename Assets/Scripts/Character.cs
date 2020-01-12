@@ -36,7 +36,7 @@ public class Character : MonoBehaviour {
         spawnTime = 0;
         //EventManager.StartListening("OnCollideDeath", SetDeath);
 
-        MusicSource = getComponent(AudioSource);
+        
         MusicSource.clip = MusicClip;
     }
    void FixedUpdate() {
