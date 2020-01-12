@@ -15,16 +15,15 @@ public class MapManager : MonoBehaviour {
 
 
     void Update() {
-
         if (Time.time > 5) {
-            map.SetTile(new Vector3Int(0, 0, 0), red_tile);
+            x = Random.Range(0, width);
+            y = Random.Range(0, height);
+            map.SetTile(new Vector3Int(x, y, 0), red_tile);
         }
 
         if (Time.time < 10) {
             
         }
     }
-
-
 
 }
