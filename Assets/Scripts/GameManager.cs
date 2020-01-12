@@ -9,7 +9,6 @@ public class GameManager : MonoBehaviour
 
     private GameManager()
     {
-        EventManager.StartListening("OnCollideDeath", Dead);
     }
 
     public static GameManager Instance
