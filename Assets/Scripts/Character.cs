@@ -28,39 +28,28 @@ public class Character : MonoBehaviour {
     public AudioSource MusicSource;
     public float Volume;
 
+    public float trailTime;
+
     void Start() {
         movement = new Vector3(0, -speed, 0);
         direction = 0;
         spawnTime = 0;
-        EventManager.StartListening("OnCollideDeath", SetDeath);
+        //EventManager.StartListening("OnCollideDeath", SetDeath);
 
         MusicSource.clip = MusicClip;
     }
-
-    void SetDeath() {
-        state = CharacterState.Dead;
-        animator.SetBool("IsCollision", true);
-    }
-
-    void FixedUpdate() {
+   void FixedUpdate() {
         if (state == CharacterState.Dead) return;
-
 
         horizontalInput = Input.GetAxisRaw("Horizontal");
         verticalInput = Input.GetAxisRaw("Vertical");
         if (direction == 0 || direction == 1) {
             if (verticalInput != 0) {
-                 if (!MusicSource.isPlaying) {
-                    MusicSource.PlayOneShot(MusicClip, Volume);
-                 }
                 horizontalInput = 0;
             }
         }
         else {
             if (horizontalInput != 0) {
-                    if (!MusicSource.isPlaying) {
-                    MusicSource.PlayOneShot(MusicClip, Volume);
-                 }
                 verticalInput = 0;
             }
         }
@@ -68,83 +57,63 @@ public class Character : MonoBehaviour {
         animator.SetFloat("HorizontalInput", horizontalInput);
         animator.SetFloat("VerticalInput", verticalInput);
 
-        // change direction
-        switch (direction) {
-            case 0:
-                if (horizontalInput < 0) {
-                    bufferDirection = 2;
-                } else if (horizontalInput > 0) {
-                    bufferDirection = 3;
-                } else if (verticalInput < 0) {
-                    bufferDirection = 0;
-                }
-                break;
-            case 1:
-                if (horizontalInput < 0) {
-                    bufferDirection = 2;
-                } else if (horizontalInput > 0) {
-                    bufferDirection = 3;
-                } else if (verticalInput > 0) {
-                    bufferDirection = 1;
-                }
-                break;
-            case 2:
-                if (verticalInput < 0) {
-                    bufferDirection = 0;
-                } else if (verticalInput > 0) {
-                    bufferDirection = 1;
-                } else if (horizontalInput < 0) {
-                    bufferDirection = 2;
-                }
-                break;
-            case 3:
-                if (verticalInput < 0) {
-                    bufferDirection = 0;
-                } else if (verticalInput > 0) {
-                    bufferDirection = 1;
-                } else if (horizontalInput > 0) {
-                    bufferDirection = 3;
-                }
-                break;
-        }
-
-        if (direction != bufferDirection) {
-            if (direction  == 0 || direction == 1) {
-
-                if (Mathf.Round(10 * transform.position.y)  % 5 == 0) {
-                    direction = bufferDirection;
-                }
-            } else {
-                if (Mathf.Round(10 * (transform.position.x - 0.25f))  % 5 == 0) {
-                    direction = bufferDirection;
-                }
-            }
-        }
-
-
     }
     void Update() {
 
         if (state == CharacterState.Dead) return;
 
-        // change position
+        // change direction
         switch (direction) {
             case 0:
-                movement = new Vector3(0, -speed * Time.deltaTime, 0);
-                transform.position = transform.position + movement;
+                if (horizontalInput < 0) {
+                    direction = 2;
+                } else if (horizontalInput > 0) {
+                    direction = 3;
+                }
                 break;
             case 1:
-                movement = new Vector3(0, speed * Time.deltaTime, 0);
-                transform.position = transform.position + movement;
+                if (horizontalInput < 0) {
+                    direction = 2;
+                } else if (horizontalInput > 0) {
+                    direction = 3;
+                }
                 break;
             case 2:
-                movement = new Vector3(-speed * Time.deltaTime, 0, 0);
-                transform.position = transform.position + movement;
+                if (verticalInput < 0) {
+                    direction = 0;
+                } else if (verticalInput > 0) {
+                    direction = 1;
+                }
                 break;
             case 3:
-                movement = new Vector3(speed * Time.deltaTime, 0, 0);
-                transform.position = transform.position + movement;
+                if (verticalInput < 0) {
+                    direction = 0;
+                } else if (verticalInput > 0) {
+                    direction = 1;
+                }
                 break;
+        }
+
+        // change position
+        if (!animator.GetBool("IsCollision")) {
+            switch (direction) {
+                case 0:
+                    movement = new Vector3(0, -speed * Time.deltaTime, 0);
+                    transform.position = transform.position + movement;
+                    break;
+                case 1:
+                    movement = new Vector3(0, speed * Time.deltaTime, 0);
+                    transform.position = transform.position + movement;
+                    break;
+                case 2:
+                    movement = new Vector3(-speed * Time.deltaTime, 0, 0);
+                    transform.position = transform.position + movement;
+                    break;
+                case 3:
+                    movement = new Vector3(speed * Time.deltaTime, 0, 0);
+                    transform.position = transform.position + movement;
+                    break;
+            }
         }
 
         // detection of trail
@@ -156,14 +125,15 @@ public class Character : MonoBehaviour {
     }
 
     public void OnTriggerEnter2D(Collider2D other) {
-        EventManager.TriggerEvent("OnCollideDeath");
+        //EventManager.TriggerEvent("OnCollideDeath");
+        animator.SetBool("IsCollision", true);
         StartCoroutine(GoToExitScreen());
     }
 
     public IEnumerator spawnCube(Vector3 pos) {
         yield return new WaitForSeconds(0.5f);
         GameObject newObject = Instantiate(detectionCube, pos, Quaternion.identity);
-        Destroy(newObject, 6.0f);
+        Destroy(newObject, trailTime - 0.5f);
     }
 
     public IEnumerator GoToExitScreen() {
