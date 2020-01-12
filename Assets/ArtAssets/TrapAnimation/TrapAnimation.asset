@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: TrapAnimation
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: b40bfaaea0b27a04e92acc9f91688e8e, type: 3}
+  - {fileID: 21300000, guid: 78e2dedde09385b48bb520917584d578, type: 3}
+  - {fileID: 21300000, guid: 24c3632fce18cda4f8e6bfee0dca024c, type: 3}
+  - {fileID: 21300000, guid: efd307a8c52e12a47b7fe9701ca07621, type: 3}
+  - {fileID: 21300000, guid: adacfae35b13d124aa3ed94f754d90f6, type: 3}
+  - {fileID: 21300000, guid: 5bb1cb81e80d7174bad0a650b88bf148, type: 3}
+  m_MinSpeed: 3
+  m_MaxSpeed: 3
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
