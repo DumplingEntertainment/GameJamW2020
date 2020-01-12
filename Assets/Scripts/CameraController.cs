@@ -21,18 +21,5 @@ public class CameraController : MonoBehaviour {
         this.transform.position = Vector3.Lerp(this.transform.position,
         new Vector3(character.transform.position.x, character.transform.position.y, z_value)
         , transitionTime);
-
-        if (this.transform.position.x > lim_right) {
-            this.transform.position = new Vector3(lim_right, this.transform.position.y, z_value);
-        }
-        if (this.transform.position.x < lim_left) {
-            this.transform.position = new Vector3(lim_left, this.transform.position.y, z_value);
-        }
-        if (this.transform.position.y < lim_down) {
-            this.transform.position = new Vector3(this.transform.position.x, lim_down, z_value);
-        }
-        if (this.transform.position.y > lim_up) {
-            this.transform.position = new Vector3(this.transform.position.x, lim_up, z_value);
-        }
     }
 }
