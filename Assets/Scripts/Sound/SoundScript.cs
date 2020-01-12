@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MenuTheme : MonoBehaviour
+public class SoundScript : MonoBehaviour
 {
 
     public AudioClip MusicClip;
