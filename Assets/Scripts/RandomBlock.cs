@@ -8,6 +8,7 @@ public class RandomBlock : MonoBehaviour
 {
 
     public Tilemap tilemap;
+    public Tilemap collidableTilemap;
     public Tile default_tile;
     public Tile obstacle;
     public Tile red_tile;
@@ -28,6 +29,7 @@ public class RandomBlock : MonoBehaviour
                 for (int i = 0; i < blockList.Count; i++)
                 {
                     Vector3Int element = blockList[i];
+                    collidableTilemap.SetTile(element, null);
                     tilemap.SetTile(element, default_tile);
                     blockList.Remove(element);
                 }
@@ -42,7 +44,9 @@ public class RandomBlock : MonoBehaviour
                 //float charPosY = character.transform.position.y;
                 //if (System.Math.Abs(charPosX - vector.x ) > 2
                         //&& System.Math.Abs(charPosY - vector.transform.position.y) > 2 ){
-                    tilemap.SetTile(vector, red_tile);
+                tilemap.SetTile(vector, null);
+                collidableTilemap.SetTile(vector, red_tile);
+
                     blockList.Add(vector);
                 //}
             }
