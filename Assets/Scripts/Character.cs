@@ -23,12 +23,17 @@ public class Character : MonoBehaviour {
     enum CharacterState {Alive, Dead};
 
     CharacterState state = CharacterState.Alive;
+    public AudioClip MusicClip;
+    public AudioSource MusicSource;
+    public float Volume;
 
     void Start() {
         movement = new Vector3(0, -speed, 0);
         direction = 0;
         spawnTime = 0;
         EventManager.StartListening("OnCollideDeath", SetDeath);
+
+        MusicSource.clip = MusicClip;
     }
 
     void SetDeath() {
@@ -39,15 +44,22 @@ public class Character : MonoBehaviour {
     void FixedUpdate() {
         if (state == CharacterState.Dead) return;
 
+
         horizontalInput = Input.GetAxisRaw("Horizontal");
         verticalInput = Input.GetAxisRaw("Vertical");
         if (direction == 0 || direction == 1) {
             if (verticalInput != 0) {
+                 if (!MusicSource.isPlaying) {
+                    MusicSource.PlayOneShot(MusicClip, Volume);
+                 }
                 horizontalInput = 0;
             }
         }
         else {
             if (horizontalInput != 0) {
+                    if (!MusicSource.isPlaying) {
+                    MusicSource.PlayOneShot(MusicClip, Volume);
+                 }
                 verticalInput = 0;
             }
         }
