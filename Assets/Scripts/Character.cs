@@ -16,6 +16,13 @@ public class Character : MonoBehaviour {
     Vector3 movement;
     int direction; // 0 = down, 1 = up, 2 = left, 3 = right
 
+    int bufferDirection;
+
+    Vector3 nextTurningPoint;
+
+    enum CharacterState {Alive, Dead};
+
+    CharacterState state = CharacterState.Alive;
     public AudioClip MusicClip;
     public AudioSource MusicSource;
     public float Volume;
@@ -24,11 +31,20 @@ public class Character : MonoBehaviour {
         movement = new Vector3(0, -speed, 0);
         direction = 0;
         spawnTime = 0;
+        EventManager.StartListening("OnCollideDeath", SetDeath);
 
         MusicSource.clip = MusicClip;
     }
 
-    void Update() {
+    void SetDeath() {
+        state = CharacterState.Dead;
+        animator.SetBool("IsCollision", true);
+    }
+
+    void FixedUpdate() {
+        if (state == CharacterState.Dead) return;
+
+
         horizontalInput = Input.GetAxisRaw("Horizontal");
         verticalInput = Input.GetAxisRaw("Vertical");
         if (direction == 0 || direction == 1) {
@@ -55,33 +71,60 @@ public class Character : MonoBehaviour {
         switch (direction) {
             case 0:
                 if (horizontalInput < 0) {
-                    direction = 2;
+                    bufferDirection = 2;
                 } else if (horizontalInput > 0) {
-                    direction = 3;
+                    bufferDirection = 3;
+                } else if (verticalInput < 0) {
+                    bufferDirection = 0;
                 }
                 break;
             case 1:
                 if (horizontalInput < 0) {
-                    direction = 2;
+                    bufferDirection = 2;
                 } else if (horizontalInput > 0) {
-                    direction = 3;
+                    bufferDirection = 3;
+                } else if (verticalInput > 0) {
+                    bufferDirection = 1;
                 }
                 break;
             case 2:
                 if (verticalInput < 0) {
-                    direction = 0;
+                    bufferDirection = 0;
                 } else if (verticalInput > 0) {
-                    direction = 1;
+                    bufferDirection = 1;
+                } else if (horizontalInput < 0) {
+                    bufferDirection = 2;
                 }
                 break;
             case 3:
                 if (verticalInput < 0) {
-                    direction = 0;
+                    bufferDirection = 0;
                 } else if (verticalInput > 0) {
-                    direction = 1;
+                    bufferDirection = 1;
+                } else if (horizontalInput > 0) {
+                    bufferDirection = 3;
                 }
                 break;
         }
+
+        if (direction != bufferDirection) {
+            if (direction  == 0 || direction == 1) {
+
+                if (Mathf.Round(10 * transform.position.y)  % 5 == 0) {
+                    direction = bufferDirection;
+                }
+            } else {
+                if (Mathf.Round(10 * (transform.position.x - 0.25f))  % 5 == 0) {
+                    direction = bufferDirection;
+                }
+            }
+        }
+
+
+    }
+    void Update() {
+
+        if (state == CharacterState.Dead) return;
 
         // change position
         switch (direction) {
@@ -113,6 +156,7 @@ public class Character : MonoBehaviour {
 
     public void OnTriggerEnter2D(Collider2D other) {
         EventManager.TriggerEvent("OnCollideDeath");
+        
     }
 
     public IEnumerator spawnCube(Vector3 pos) {

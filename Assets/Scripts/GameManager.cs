@@ -24,11 +24,6 @@ public class GameManager : MonoBehaviour
 
     }
 
-
-    void Dead() {
-        Debug.Log("Event received");
-    }
-
     private void OnApplicationQuit()
     {
         _instance = null;

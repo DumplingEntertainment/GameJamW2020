@@ -4,84 +4,64 @@ using UnityEngine;
 using UnityEngine.Tilemaps;
 
 
-public class RandomBlock : MonoBehaviour
-{
+public class RandomBlock : MonoBehaviour {
 
     public Tilemap tilemap;
     public Tilemap collidableTilemap;
+    public Tilemap animationTilemap;
+
     public Tile default_tile;
-    public Tile obstacle;
-    public Tile red_tile;
-    //public GameObject character;
+    public Tile block;
+
+    public AnimatedTile block_tilePrefabAnimated;
+    private float block_animation_time;
+
 
 
     public int width, height;
     public int x, y;
-    float nextTime =3;
+    float nextTime = 0;
     List<Vector3Int> blockList = new List<Vector3Int>();
     int numBlocks = 10;
 
-    void Update()
-    {
-        if (Time.time >= nextTime)
-        {
+    void Start() {
+        block_animation_time =
+            block_tilePrefabAnimated.m_AnimatedSprites.Length / block_tilePrefabAnimated.m_MinSpeed;
+        Debug.Log(block_tilePrefabAnimated.m_AnimatedSprites.Length);
+        Debug.Log(block_tilePrefabAnimated.m_MinSpeed);
+    }
+
+    void Update() {
+        if (Time.time >= nextTime) {
             if (blockList.Count != 0) {
-                for (int i = 0; i < blockList.Count; i++)
-                {
+                for (int i = 0; i < blockList.Count; i++) {
                     Vector3Int element = blockList[i];
                     collidableTilemap.SetTile(element, null);
-                    tilemap.SetTile(element, default_tile);
                     blockList.Remove(element);
                 }
             }
-            for (int i = 0; i < numBlocks; i++)
-            {
+
+            for (int i = 0; i < numBlocks; i++) {
                 x = Random.Range(0, width);
                 y = Random.Range(0, height);
-                Vector3Int vector = new Vector3Int(x, y, 0);
+                Vector3Int pos = new Vector3Int(x, y, 0);
+                StartCoroutine(AddObstacle(pos));
 
-                //float charPosX = character.transform.position.x;
-                //float charPosY = character.transform.position.y;
-                //if (System.Math.Abs(charPosX - vector.x ) > 2
-                        //&& System.Math.Abs(charPosY - vector.transform.position.y) > 2 ){
-                tilemap.SetTile(vector, null);
-                collidableTilemap.SetTile(vector, red_tile);
-
-                    blockList.Add(vector);
-                //}
+                blockList.Add(pos);
             }
             nextTime += 6;
             numBlocks++;
         }
-
-        //else
-        //{
-        //    if (flicker) {
-        //        foreach (Vector3Int element in blockList)
-        //        {
-        //            tilemap.SetTile(element, orange_tile);
-        //        }
-        //    }
-        //    else
-        //    {
-        //        foreach (Vector3Int element in blockList)
-        //        {
-        //            tilemap.SetTile(element, null);
-        //        }
-        //    }
-        }
-        
-
-
-
-
     }
 
+    public IEnumerator AddObstacle(Vector3Int pos) {
 
-    //public IEnumerator waitFunction(int x)
-    //{
-    //    yield return new WaitForSeconds(x);
+        animationTilemap.SetTile(pos, block_tilePrefabAnimated); // animation
 
-    //}
+        yield return new WaitForSeconds(block_animation_time);
+        animationTilemap.SetTile(pos, null);
+        collidableTilemap.SetTile(pos, block);
+    }
+}
 
 
