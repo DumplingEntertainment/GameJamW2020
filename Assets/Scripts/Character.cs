@@ -18,6 +18,7 @@ public class Character : MonoBehaviour {
 
     public AudioClip MusicClip;
     public AudioSource MusicSource;
+    public float Volume;
 
     void Start() {
         movement = new Vector3(0, -speed, 0);
@@ -32,13 +33,17 @@ public class Character : MonoBehaviour {
         verticalInput = Input.GetAxisRaw("Vertical");
         if (direction == 0 || direction == 1) {
             if (verticalInput != 0) {
-                     MusicSource.Play();
+                 if (!MusicSource.isPlaying) {
+                    MusicSource.PlayOneShot(MusicClip, Volume);
+                 }
                 horizontalInput = 0;
             }
         }
         else {
             if (horizontalInput != 0) {
-                     MusicSource.Play();
+                    if (!MusicSource.isPlaying) {
+                    MusicSource.PlayOneShot(MusicClip, Volume);
+                 }
                 verticalInput = 0;
             }
         }
