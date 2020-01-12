@@ -27,8 +27,6 @@ public class RandomBlock : MonoBehaviour {
     void Start() {
         block_animation_time =
             block_tilePrefabAnimated.m_AnimatedSprites.Length / block_tilePrefabAnimated.m_MinSpeed;
-        Debug.Log(block_tilePrefabAnimated.m_AnimatedSprites.Length);
-        Debug.Log(block_tilePrefabAnimated.m_MinSpeed);
     }
 
     void Update() {

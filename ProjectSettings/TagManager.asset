@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Character
+    uniqueID: 266133
+    locked: 0
+  - name: Obstacles
+    uniqueID: 1571852209
+    locked: 0
+  - name: Trail
+    uniqueID: 3893124551
+    locked: 0

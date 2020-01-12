@@ -12,6 +12,7 @@ public class Character : MonoBehaviour {
 
     private float horizontalInput;
     private float verticalInput;
+    private int lastDir;
 
     public float speed;
     Vector3 movement;
@@ -24,29 +25,27 @@ public class Character : MonoBehaviour {
     enum CharacterState {Alive, Dead};
 
     CharacterState state = CharacterState.Alive;
-    private AudioClip MusicClip;
-    private AudioSource MusicSource;
+
+    // sound
+    public AudioClip TurningSound;
+    public AudioSource MusicSource;
+    public GameObject RollingSource;
+
     public float Volume;
 
+    public float trailTime;
 
     void Start() {
         movement = new Vector3(0, -speed, 0);
         direction = 0;
+        lastDir = direction;
         spawnTime = 0;
-        EventManager.StartListening("OnCollideDeath", SetDeath);
-
-        
-        MusicSource.clip = MusicClip;
+        //EventManager.StartListening("OnCollideDeath", SetDeath);
+        //MusicSource.clip = MusicClip;
     }
-
-    void SetDeath() {
-        state = CharacterState.Dead;
-        animator.SetBool("IsCollision", true);
-    }
-
-    void FixedUpdate() {
+    /*
+   void FixedUpdate() {
         if (state == CharacterState.Dead) return;
-
 
         horizontalInput = Input.GetAxisRaw("Horizontal");
         verticalInput = Input.GetAxisRaw("Vertical");
@@ -72,83 +71,70 @@ public class Character : MonoBehaviour {
         animator.SetFloat("HorizontalInput", horizontalInput);
         animator.SetFloat("VerticalInput", verticalInput);
 
+    }
+    */
+    void Update() {
+
+        horizontalInput = Input.GetAxisRaw("Horizontal");
+        verticalInput = Input.GetAxisRaw("Vertical");
+
         // change direction
         switch (direction) {
             case 0:
                 if (horizontalInput < 0) {
-                    bufferDirection = 2;
+                    direction = 2;
                 } else if (horizontalInput > 0) {
-                    bufferDirection = 3;
-                } else if (verticalInput < 0) {
-                    bufferDirection = 0;
+                    direction = 3;
                 }
                 break;
             case 1:
                 if (horizontalInput < 0) {
-                    bufferDirection = 2;
+                    direction = 2;
                 } else if (horizontalInput > 0) {
-                    bufferDirection = 3;
-                } else if (verticalInput > 0) {
-                    bufferDirection = 1;
+                    direction = 3;
                 }
                 break;
             case 2:
                 if (verticalInput < 0) {
-                    bufferDirection = 0;
+                    direction = 0;
                 } else if (verticalInput > 0) {
-                    bufferDirection = 1;
-                } else if (horizontalInput < 0) {
-                    bufferDirection = 2;
+                    direction = 1;
                 }
                 break;
             case 3:
                 if (verticalInput < 0) {
-                    bufferDirection = 0;
+                    direction = 0;
                 } else if (verticalInput > 0) {
-                    bufferDirection = 1;
-                } else if (horizontalInput > 0) {
-                    bufferDirection = 3;
+                    direction = 1;
                 }
                 break;
         }
 
-        if (direction != bufferDirection) {
-            if (direction  == 0 || direction == 1) {
-
-                if (Mathf.Round(10 * transform.position.y)  % 5 == 0) {
-                    direction = bufferDirection;
-                }
-            } else {
-                if (Mathf.Round(10 * (transform.position.x - 0.25f))  % 5 == 0) {
-                    direction = bufferDirection;
-                }
-            }
+        if (lastDir != direction) {
+            lastDir = direction;
+            StartCoroutine(TurnSound());
         }
-
-
-    }
-    void Update() {
-
-        if (state == CharacterState.Dead) return;
 
         // change position
-        switch (direction) {
-            case 0:
-                movement = new Vector3(0, -speed * Time.deltaTime, 0);
-                transform.position = transform.position + movement;
-                break;
-            case 1:
-                movement = new Vector3(0, speed * Time.deltaTime, 0);
-                transform.position = transform.position + movement;
-                break;
-            case 2:
-                movement = new Vector3(-speed * Time.deltaTime, 0, 0);
-                transform.position = transform.position + movement;
-                break;
-            case 3:
-                movement = new Vector3(speed * Time.deltaTime, 0, 0);
-                transform.position = transform.position + movement;
-                break;
+        if (!animator.GetBool("IsCollision")) {
+            switch (direction) {
+                case 0:
+                    movement = new Vector3(0, -speed * Time.deltaTime, 0);
+                    transform.position = transform.position + movement;
+                    break;
+                case 1:
+                    movement = new Vector3(0, speed * Time.deltaTime, 0);
+                    transform.position = transform.position + movement;
+                    break;
+                case 2:
+                    movement = new Vector3(-speed * Time.deltaTime, 0, 0);
+                    transform.position = transform.position + movement;
+                    break;
+                case 3:
+                    movement = new Vector3(speed * Time.deltaTime, 0, 0);
+                    transform.position = transform.position + movement;
+                    break;
+            }
         }
 
         // detection of trail
@@ -160,19 +146,28 @@ public class Character : MonoBehaviour {
     }
 
     public void OnTriggerEnter2D(Collider2D other) {
-        EventManager.TriggerEvent("OnCollideDeath");
+        //EventManager.TriggerEvent("OnCollideDeath");
+        animator.SetBool("IsCollision", true);
         StartCoroutine(GoToExitScreen());
     }
 
     public IEnumerator spawnCube(Vector3 pos) {
         yield return new WaitForSeconds(0.5f);
         GameObject newObject = Instantiate(detectionCube, pos, Quaternion.identity);
-        Destroy(newObject, 6.0f);
+        Destroy(newObject, trailTime - 0.5f);
     }
 
     public IEnumerator GoToExitScreen() {
         yield return new WaitForSeconds(4f);
         SceneManager.LoadScene(sceneBuildIndex:2);
+    }
+
+    public IEnumerator TurnSound() {
+        MusicSource.Play();
+        RollingSource.GetComponent<AudioSource>().Stop();
+        yield return new WaitForSeconds(0.5f);
+        MusicSource.Stop();
+        RollingSource.GetComponent<AudioSource>().Play();
     }
     
 }
