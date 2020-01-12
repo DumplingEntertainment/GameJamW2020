@@ -16,10 +16,15 @@ public class Character : MonoBehaviour {
     Vector3 movement;
     int direction; // 0 = down, 1 = up, 2 = left, 3 = right
 
+    public AudioClip MusicClip;
+    public AudioSource MusicSource;
+
     void Start() {
         movement = new Vector3(0, -speed, 0);
         direction = 0;
         spawnTime = 0;
+
+        MusicSource.clip = MusicClip;
     }
 
     void Update() {
@@ -27,11 +32,13 @@ public class Character : MonoBehaviour {
         verticalInput = Input.GetAxisRaw("Vertical");
         if (direction == 0 || direction == 1) {
             if (verticalInput != 0) {
+                     MusicSource.Play();
                 horizontalInput = 0;
             }
         }
         else {
             if (horizontalInput != 0) {
+                     MusicSource.Play();
                 verticalInput = 0;
             }
         }
