@@ -16,13 +16,24 @@ public class Character : MonoBehaviour {
     Vector3 movement;
     int direction; // 0 = down, 1 = up, 2 = left, 3 = right
 
+    enum CharacterState {Alive, Dead};
+
+    CharacterState state = CharacterState.Alive;
+
     void Start() {
         movement = new Vector3(0, -speed, 0);
         direction = 0;
         spawnTime = 0;
+        EventManager.StartListening("OnCollideDeath", SetDeath);
     }
 
-    void Update() {
+    void SetDeath() {
+        state = CharacterState.Dead;
+    }
+
+    void FixedUpdate() {
+        if (state == CharacterState.Dead) return;
+
         horizontalInput = Input.GetAxisRaw("Horizontal");
         verticalInput = Input.GetAxisRaw("Vertical");
         if (direction == 0 || direction == 1) {
@@ -38,6 +49,11 @@ public class Character : MonoBehaviour {
 
         animator.SetFloat("HorizontalInput", horizontalInput);
         animator.SetFloat("VerticalInput", verticalInput);
+
+    }
+    void Update() {
+
+        if (state == CharacterState.Dead) return;
 
         // change direction
         switch (direction) {
@@ -101,6 +117,7 @@ public class Character : MonoBehaviour {
 
     public void OnTriggerEnter2D(Collider2D other) {
         EventManager.TriggerEvent("OnCollideDeath");
+        animator.SetBool("IsCollision", true);
     }
 
     public IEnumerator spawnCube(Vector3 pos) {
