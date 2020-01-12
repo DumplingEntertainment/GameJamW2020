@@ -12,6 +12,7 @@ public class Character : MonoBehaviour {
 
     private float horizontalInput;
     private float verticalInput;
+    private int lastDir;
 
     public float speed;
     Vector3 movement;
@@ -24,8 +25,12 @@ public class Character : MonoBehaviour {
     enum CharacterState {Alive, Dead};
 
     CharacterState state = CharacterState.Alive;
-    private AudioClip MusicClip;
-    private AudioSource MusicSource;
+
+    // sound
+    public AudioClip TurningSound;
+    public AudioSource MusicSource;
+    public GameObject RollingSource;
+
     public float Volume;
 
     public float trailTime;
@@ -33,12 +38,12 @@ public class Character : MonoBehaviour {
     void Start() {
         movement = new Vector3(0, -speed, 0);
         direction = 0;
+        lastDir = direction;
         spawnTime = 0;
         //EventManager.StartListening("OnCollideDeath", SetDeath);
-
-        MusicSource = getComponent(AudioSource);
-        MusicSource.clip = MusicClip;
+        //MusicSource.clip = MusicClip;
     }
+    /*
    void FixedUpdate() {
         if (state == CharacterState.Dead) return;
 
@@ -67,9 +72,11 @@ public class Character : MonoBehaviour {
         animator.SetFloat("VerticalInput", verticalInput);
 
     }
+    */
     void Update() {
 
-        if (state == CharacterState.Dead) return;
+        horizontalInput = Input.GetAxisRaw("Horizontal");
+        verticalInput = Input.GetAxisRaw("Vertical");
 
         // change direction
         switch (direction) {
@@ -101,6 +108,11 @@ public class Character : MonoBehaviour {
                     direction = 1;
                 }
                 break;
+        }
+
+        if (lastDir != direction) {
+            lastDir = direction;
+            StartCoroutine(TurnSound());
         }
 
         // change position
@@ -148,6 +160,14 @@ public class Character : MonoBehaviour {
     public IEnumerator GoToExitScreen() {
         yield return new WaitForSeconds(4f);
         SceneManager.LoadScene(sceneBuildIndex:2);
+    }
+
+    public IEnumerator TurnSound() {
+        MusicSource.Play();
+        RollingSource.GetComponent<AudioSource>().Stop();
+        yield return new WaitForSeconds(0.5f);
+        MusicSource.Stop();
+        RollingSource.GetComponent<AudioSource>().Play();
     }
     
 }
